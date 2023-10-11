@@ -4,15 +4,14 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/alekted?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alekted/)](https://www.linkedin.com/in/alekted/)
+[![Linkedin: alekted](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alekted/)](https://www.linkedin.com/in/alekted/)
 ![GitHub followers](https://img.shields.io/github/followers/alekted?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=alekted.alekted)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const alex = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
     askMeAbout: ["web dev", "tech", "cloud dev", "photography"],
