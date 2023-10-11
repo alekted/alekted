@@ -4,7 +4,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/alekted?label=Follow)
-[![Linkedin: alekted](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alekted/)](https://www.linkedin.com/in/alekted/)
+[![Linkedin: alekted](https://img.shields.io/badge/-alex-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alekted/)](https://www.linkedin.com/in/alekted/)
 ![GitHub followers](https://img.shields.io/github/followers/alekted?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=alekted.alekted)
 
