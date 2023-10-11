@@ -1,12 +1,12 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Yo!, I'm Alex! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Student Cloud Engineer at <a href="https://www.cam.ac.uk/">University of Cambridge</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Twitter Follow](https://img.shields.io/twitter/follow/alekted?label=Follow)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alekted/)](https://www.linkedin.com/in/alekted/)
+![GitHub followers](https://img.shields.io/github/followers/alekted?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=alekted.alekted)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -15,7 +15,7 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "cloud dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
@@ -54,7 +54,7 @@ const anmol = {
 📊 **This week I spent my time on** 
 
 ```text
-⌚︎ Timezone: Asia/Calcutta
+⌚︎ Timezone: Europe/london
 
 💬 Languages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
@@ -73,5 +73,3 @@ Windows                  17 hrs 5 mins       ███████████�
 
 ```
 <!--END_SECTION:waka-->
-
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
